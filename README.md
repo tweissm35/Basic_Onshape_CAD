@@ -14,7 +14,7 @@ This one was pretty fun. I really like that I can immediately dimension things a
 This one was pretty straight forward.
 <br><img src="/images/tire.png" width="200">
 ## Wheel
-This one was really fun. I had one minor issue where the circular pattern wasn't cutting any holes, but it was because I had also accidentally selected the the thing I was trying to cut the holes into.
+This one was really fun. I had one minor issue where the circular pattern wasn't cutting any holes, but it was because I had also accidentally selected the the thing I was trying to cut the holes into. I also kind want to know if I can change how after creating a line it immediately makes a new one at the end point of the one I just made. I don't always want to make enclosed shapes. That's a very minor annoyance though, in the face of all the good that Onshape is.
 <br><img src="/images/wheel.png" width="200">
 ## Collar
 This one was straight forward.
