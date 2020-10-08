@@ -36,4 +36,4 @@ Most of what I said for the sub-assembly still applies, but I had some new probl
 <br><img src="/images/mainassembly.png" width="200">
 ## Dowel Pin Frame
 This assignment was fine. I really like the onshape configurations because they were a nightmare with SolidWorks. I did find the measure tool a little lacking, but it's a minor thing really. After miscounting the number of pins I needed I got this together without a hitch.
-<br><img src="/images/frame.png" width="200">
+<br><img src="/images/frame.png" width="300">
