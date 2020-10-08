@@ -37,3 +37,6 @@ Most of what I said for the sub-assembly still applies, but I had some new probl
 ## Dowel Pin Frame
 This assignment was fine. I really like the onshape configurations because they were a nightmare with SolidWorks. I did find the measure tool a little lacking, but it's a minor thing really. After miscounting the number of pins I needed I got this together without a hitch.
 <br><img src="/images/frame.png" width="300">
+## Universal Joint Challenge
+This one was fun. It really illuminated some of the differences between Onshape and SolidWorks because the directions were for SolidWorks, but we did it in Onshape. For the cube, I learned I could use mate connectors like circles that are on every face. I used it for my circular pattern. For the bracket, I went with a sweep, so I drew the sketch of rectangle perpendicular to the sketch of the path I wanted it swept along. For the mates I used two cylindrical mates and two revolute mates, which worked well. To get my animation I right clicked on one of the cylindric from the list on the left and clicked animate. I then selected my degrees of freedom and changed it from reciprocate to loop. After that, I was free to gaze at it at my leisure.
+<br><img src="/images/Universal-Joint.gif" width="300">
